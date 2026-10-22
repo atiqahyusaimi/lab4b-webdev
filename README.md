@@ -2,7 +2,9 @@
 # Lab 4b - JSON and jQuery
 
 Name: NURATIQAH SYAHIRAH BINTI MOHD YUSAIMI
+
 Student ID: ci240056
+
 Course: BIC21203 Web Development
 
 ## Question 1
